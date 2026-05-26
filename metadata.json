@@ -1,0 +1,6 @@
+{
+  "name": "Rangilo Ludo",
+  "description": "Rangilo Ludo is a premium Royal Rajasthani-inspired Ludo matchmaking, tournament, wallet, and settlement platform. Connect with players and win rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
